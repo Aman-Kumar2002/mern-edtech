@@ -176,7 +176,6 @@ Contributions are welcome If you have any suggestions or find any issues, please
 
 ## Contact
 
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
+- Email: [amankumarengineer2002@gmail.com](mailto:amankumarengineer2002@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/mraman-kumar/](https://www.linkedin.com/in/mraman-kumar/)
 
